@@ -17,6 +17,7 @@
     An execution of the DevOps project.
     Let do this project again for the execution
     Due to the exection of the panel
+    New changes has been done
   </p>
 </body>
 </html>
