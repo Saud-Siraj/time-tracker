@@ -14,7 +14,8 @@
   <h1>Super Simple Example Web Page</h1>
   <p>
     This is a very simple example web page on a JSP.a
-    An execution of the DevOps project
+    An execution of the DevOps project.
+    Let do this project again for the execution
   </p>
 </body>
 </html>
